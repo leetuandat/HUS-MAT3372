@@ -1,0 +1,20 @@
+Test ArrayPolynomial:
+Original polynomial: 0
+After setting coefficient of x^1 to 4: 0
+Sum with another polynomial (1 + x + x^2): 0
+Difference with another polynomial (1 + x + x^2): 0
+Product with another polynomial (1 + x + x^2): 0
+Polynomial evaluated at x=2: 21.0
+
+Test ListPolynomial:
+Original polynomial: 0
+After setting coefficient of x^1 to 4: 0
+Sum with another polynomial (1 + x + x^2): 0
+Difference with another polynomial (1 + x + x^2): 0
+Product with another polynomial (1 + x + x^2): 0
+Polynomial evaluated at x=2: 21.0
+
+Test IntegrationCalculator:
+Midpoint Rule: Polynomial: 0, Integral from 0 to 1: 2.75
+Trapezoid Rule: Polynomial: 0, Integral from 0 to 1: 3.5
+Simpson Rule: Polynomial: 0, Integral from 0 to 1: 3.0
